@@ -1,0 +1,177 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+}
+li a{
+    text-decoration: none;
+    display: inline;
+    color: black;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    padding-right: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+ul{
+    text-decoration: none;
+    margin-right: 80px;
+    margin-top: 40px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 5%;
+
+
+}
+.half-width img{
+    width: 100%;
+    margin-top: 140px;
+    
+}
+.top-sec{
+     margin-top: 120px;
+}
+.text-highlight{
+    color: rgb(253, 128, 11);
+}
+.btn-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(238, 14, 126), rgb(255, 146, 44));
+    padding: 20px 70px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.for-btn{
+    padding-bottom: 30px;
+}
+h2{
+    font-size: 40px;
+}
+.about{
+    margin-top: 130px;
+}
+.for-btn2{
+    padding-bottom: 30px;
+}
+.thirdhalf-width{
+    width: 25%;
+    float: left;
+    margin: 20px;
+    padding: 15px;
+}
+.thirdhalf-width img{
+    width: 100%;
+}
+.for-border{
+    box-shadow: 10px 10px 40px grey;
+	border-radius: 10px;
+	height: 70%;
+    background-color: white;
+}
+.last-sec{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.text-high{
+    color:rgb(253, 128, 11);
+}
+.top-text{
+    text-align: center;
+    padding-top: 90px;
+}
+.project{
+    background-color: rgba(145, 39, 39, 0.062);
+}
+.fontawesome{
+    font-size: 100px;
+    margin-left: 110px;
+}
+.text-design{
+    text-align: center;
+    color:rgb(219, 69, 69);
+}
+.service{
+    background-color:rgb(182, 220, 224);
+    border-radius: 10px;
+    padding-bottom: 40px;
+}
+.work{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.work2{
+    margin-top: 270px;
+    padding-right: 20px;
+    color:white;
+
+}
+.work3{
+    margin-top: 320px;
+    margin-left: 40px;
+}
+.working{
+        margin-left: 120px;
+        background-image: url(images/Group_33094_1.png);
+        background-repeat: no-repeat;
+        background-size: 90%;
+        background-position: center;
+}
+
+.footer{
+    text-align: center;
+    justify-content: center;
+}
+.footer-sec img{
+    height:40px;
+    padding: 5px;
+}
+#first{
+	border-bottom: 10px solid;
+	border-image: linear-gradient(180deg, rgb(212, 18, 18), rgb(154, 62, 143));
+    border-image-slice: 1;
+}
+#second{
+	border-bottom: 10px solid;
+	border-image: linear-gradient(180deg, rgb(161, 84, 84), rgb(76, 206, 163));
+    border-image-slice: 1;
+}
+#third{
+	border-bottom: 10px solid;
+	border-image: linear-gradient(180deg, rgb(216, 189, 189), rgb(56, 123, 209));
+    border-image-slice: 1;
+}
+#fourth{
+	border-left: 7px solid;
+	border-image: linear-gradient(180deg, rgb(226, 191, 191), rgb(248, 50, 0));
+    border-image-slice: 1;
+}
+#fifth{
+	border-left: 7px solid;
+	border-image: linear-gradient(180deg, rgb(189, 114, 3), rgb(247, 128, 18));
+    border-image-slice: 1;
+}
+#sixth{
+	border-left: 7px solid;
+	border-image: linear-gradient(180deg, rgb(2, 82, 255), rgb(255, 1, 56));
+    border-image-slice: 1;
+}
