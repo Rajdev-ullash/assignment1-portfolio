@@ -137,9 +137,10 @@ h2{
         background-position: center;
 }
 
-.footer{
+footer{
     text-align: center;
     justify-content: center;
+    padding-bottom: 80px;
 }
 .footer-sec img{
     height:40px;
